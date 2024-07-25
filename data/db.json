@@ -1,0 +1,49 @@
+{
+  "Booking": [
+    {
+      "id": "16f6",
+      "fullname": "ardra",
+      "adults": "1",
+      "checkin": "2024-07-10",
+      "children": "2",
+      "checkout": "2024-07-10",
+      "phonenumber": "1234567891",
+      "time": "1:11 PM"
+    },
+    {
+      "id": "cd62",
+      "fullname": "ardra",
+      "adults": "1",
+      "checkin": "2024-07-03",
+      "children": "2",
+      "checkout": "2024-07-10",
+      "phonenumber": "1234567891",
+      "time": "4:33 AM"
+    }
+  ],
+  "Login": [],
+  "Register": [
+    {
+      "id": "ccb5",
+      "name": "ardra",
+      "email": "paru@gmail.com",
+      "password": "ardra",
+      "phonenumber": "1234567891"
+    }
+  ],
+  "Contact": [
+    {
+      "id": "e563",
+      "name": "ardra",
+      "email": "paru@gmail.com",
+      "message": "hello"
+    },
+    {
+      "id": "13e5",
+      "name": "ardra",
+      "email": "paru@gmail.com",
+      "message": "hello"
+    }
+  ],
+  "log": []
+}

@@ -1,0 +1,19 @@
+#home{
+    height: 100vh;
+    background-image: url('https://themewagon.github.io/vacation-rental/images/bg_1.jpg');
+    background-repeat: no-repeat;
+    /* padding-bottom: 40px; */
+     opacity: 1.9; 
+    }
+
+.input{
+    background-color:rgb(241, 240, 240);
+    border: 0px ;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+#demo{
+    display: flex;
+  
+}
